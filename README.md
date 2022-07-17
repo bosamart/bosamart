@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @bosamart-BO SAM ATH
-- I want to get dev job, so i want to build my skillset 
-- currently i started to study python
-- current job I work in ISP , responsible on metro area network.
+- I want to get dev job, but currently I need to build my skillset 
+- currently i started to study python 
+- current job I work in ISP , networking, responsible on metro area network.
+- my email: bosamart@gmail.com
