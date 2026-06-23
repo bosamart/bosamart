@@ -30,9 +30,14 @@ I have a background in service-provider networking and I'm expanding into DevOps
 
 ## 🤖 AI & Automation
 
-Exploring how AI agents can transform network operations — from automated troubleshooting to intent-based config generation.
+Exploring how AI can assist network engineers with learning, documentation, troubleshooting, and automation.
 
-Currently experimenting with: Claude AI agents, MCP (Model Context Protocol), Python network automation
+Currently learning:
+
+- AI-assisted network operations
+- Claude and ChatGPT workflows
+- Python for network automation
+- Git and GitHub for project documentation
 
 ---
 
