@@ -1,27 +1,38 @@
 # Hi, I'm Bo Sam Ath 👋
 
-IP Network Engineer based in Cambodia — currently at **Metfone**, moving to **Cellcard** as IP Network Operations Engineer.
+IP Network Engineer based in Cambodia — joining **Cellcard** as IP Network Operations Engineer.
 
-I build and operate service-provider networks, and I'm growing into AI agent automation on top of network infrastructure.
+I have a background in service-provider networking and I'm expanding into DevOps, security, and AI-driven network automation.
 
 ---
 
-## 🌐 Networking
+## 🌐 Networking Background
 
-- **Day job:** MPLS core networks — L2 VPN (VPWS, VPLS), L3 VPN (MP-BGP VPNv4), and transport operations at Metfone
+- **Experience:** MPLS core networks — L2 VPN (VPWS, VPLS), L3 VPN (MP-BGP VPNv4), transport operations at Metfone
 - **Current focus:** Segment Routing — SR-MPLS, SRv6, TI-LFA, SR-TE, EVPN
 - **Platform:** Cisco IOS XR, EVE-NG labs
 
-**Protocols I work with:**
+**Protocols:**
 `IS-IS` · `BGP` · `MPLS` · `SR-MPLS` · `SRv6` · `EVPN` · `L3VPN` · `L2VPN`
+
+---
+
+## 🚀 What I'm Building Toward
+
+| Area | Focus |
+|------|-------|
+| **DevOps** | CI/CD pipelines, infrastructure as code, containerization |
+| **Security** | Firewall policy, network security design |
+| **AI Agents** | Applying LLM agents to network ops — config gen, fault analysis |
+| **Automation** | Python, Ansible, and AI-assisted network automation |
 
 ---
 
 ## 🤖 AI & Automation
 
-I'm interested in how AI agents can be applied to network operations — automated troubleshooting, config generation, and intent-based workflows.
+Exploring how AI agents can transform network operations — from automated troubleshooting to intent-based config generation.
 
-Currently exploring: Claude AI agents, MCP (Model Context Protocol), Python network automation
+Currently experimenting with: Claude AI agents, MCP (Model Context Protocol), Python network automation
 
 ---
 
