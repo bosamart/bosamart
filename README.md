@@ -52,6 +52,19 @@ A 7-phase lab building a service-provider core from scratch — no LDP, no RSVP-
 | 6 | L3VPN over SRv6 (uDT4) |
 | 7 | EVPN-VPWS L2VPN over SR-MPLS and SRv6 (uDX2) |
 
+### [MPLS Traffic Engineering on Cisco IOS XRv9000 — EVE-NG](https://github.com/bosamart/xrv9000-mpls-te-lab)
+
+A 6-phase MPLS Traffic Engineering lab demonstrating the evolution of service-provider transport before Segment Routing, using RSVP-TE and LDP on Cisco IOS XRv9000.
+
+| Phase | Topic                         |
+| ----- | ----------------------------- |
+| 1     | IS-IS baseline                |
+| 2     | MPLS LDP label distribution   |
+| 3     | RSVP-TE explicit-path tunnels |
+| 4     | CSPF and autoroute announce   |
+| 5     | Fast Reroute (FRR) protection |
+| 6     | L3VPN over MPLS-TE            |
+
 ---
 
 ## 📫 Contact
