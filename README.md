@@ -1,4 +1,4 @@
-# Hi, I'm Bo Sam Ath 👋
+# Hi, I'm SAM ATH BO 👋
 
 IP Network Engineer based in Cambodia — 8 years building and operating service-provider core networks at **Metfone**, now IP Network Operations at **Telcotech**.
 
