@@ -59,7 +59,7 @@ A 6-phase lab on the transport generation *before* Segment Routing — RSVP-TE a
 | 5 | Fast Reroute (FRR) protection |
 | 6 | L3VPN over MPLS-TE |
 
-### [VXLAN EVPN Fabric on Cisco Nexus 9000v — EVE-NG](https://github.com/bosamart/Cisco-NXOS-VXLAN-EVPN-Fabric-Lab)
+### [VXLAN EVPN Fabric on Cisco Nexus 9000v — EVE-NG-(building)](https://github.com/bosamart/VXLAN-EVPN-L3-Fabric)
 
 Spine-leaf DC fabric: OSPF underlay, MP-BGP EVPN overlay with spine route reflectors, VTEP/NVE, L2VNI extension — including the eBGP-overlay lessons learned the hard way.
 
