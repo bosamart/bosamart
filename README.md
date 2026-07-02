@@ -1,47 +1,36 @@
 # Hi, I'm Bo Sam Ath 👋
 
-IP Network Engineer based in Cambodia — joining **Cellcard** as IP Network Operations Engineer.
+IP Network Engineer based in Cambodia — 8 years building and operating service-provider core networks at **Metfone**, now IP Network Operations at **Cellcard**.
 
-I have a background in service-provider networking and I'm expanding into DevOps, security, and AI-driven network automation.
+Direction: **AI-powered network engineer** — carrier-scale networking experience, multiplied by automation and AI. Not replacing the network engineer with AI; making one engineer count for more.
 
 ---
 
 ## 🌐 Networking Background
 
 - **Experience:** MPLS core networks — L2 VPN (VPWS, VPLS), L3 VPN (MP-BGP VPNv4), transport operations at Metfone
-- **Current focus:** Segment Routing — SR-MPLS, SRv6, TI-LFA, SR-TE, EVPN
-- **Platform:** Cisco IOS XR, EVE-NG labs
+- **Deep dives:** Segment Routing (SR-MPLS, SRv6, TI-LFA, SR-TE), EVPN, DC fabrics (VXLAN EVPN)
+- **Platforms:** Cisco IOS XR, NX-OS · EVE-NG labs
 
 **Protocols:**
-`IS-IS` · `BGP` · `MPLS` · `SR-MPLS` · `SRv6` · `EVPN` · `L3VPN` · `L2VPN`
+`IS-IS` · `BGP` · `MPLS` · `SR-MPLS` · `SRv6` · `EVPN` · `VXLAN` · `L3VPN` · `L2VPN`
 
 ---
 
-## 🚀 What I'm Building Toward
+## 🧭 Where I'm Heading
 
-| Area | Focus |
+| Step | Focus |
 |------|-------|
-| **DevOps** | CI/CD pipelines, infrastructure as code, containerization |
-| **Security** | Firewall policy, network security design |
-| **AI Agents** | Applying LLM agents to network ops — config gen, fault analysis |
-| **Automation** | Python, Ansible, and AI-assisted network automation |
+| **Now** | Core routing depth — BGP, IS-IS: the *why*, not just the config |
+| **Next** | Linux + network automation — Python, Netmiko/NAPALM, Ansible |
+| **Then** | AI agents on network ops — fault analysis, config generation, monitoring |
+| **Always** | AI-assisted daily operations — documentation, troubleshooting, runbooks |
 
 ---
 
-## 🤖 AI & Automation
+## 📁 Featured Labs
 
-Exploring how AI can assist network engineers with learning, documentation, troubleshooting, and automation.
-
-Currently learning:
-
-- AI-assisted network operations
-- Claude and ChatGPT workflows
-- Python for network automation
-- Git and GitHub for project documentation
-
----
-
-## 📁 Featured Lab
+Every lab is phased, verified in EVE-NG with real `show` output, and ends each phase with a "Can I explain it?" checkpoint.
 
 ### [SR-MPLS & SRv6 on Cisco IOS XRv9000 — EVE-NG](https://github.com/bosamart/sr-mpls-iosxr-eveng-lab)
 
@@ -59,16 +48,33 @@ A 7-phase lab building a service-provider core from scratch — no LDP, no RSVP-
 
 ### [MPLS Traffic Engineering on Cisco IOS XRv9000 — EVE-NG](https://github.com/bosamart/xrv9000-mpls-te-lab)
 
-A 6-phase MPLS Traffic Engineering lab demonstrating the evolution of service-provider transport before Segment Routing, using RSVP-TE and LDP on Cisco IOS XRv9000.
+A 6-phase lab on the transport generation *before* Segment Routing — RSVP-TE and LDP — because you can't appreciate SR until you've felt RSVP-TE's state problem.
 
-| Phase | Topic                         |
-| ----- | ----------------------------- |
-| 1     | IS-IS baseline                |
-| 2     | MPLS LDP label distribution   |
-| 3     | RSVP-TE explicit-path tunnels |
-| 4     | CSPF and autoroute announce   |
-| 5     | Fast Reroute (FRR) protection |
-| 6     | L3VPN over MPLS-TE            |
+| Phase | Topic |
+|-------|-------|
+| 1 | IS-IS baseline |
+| 2 | MPLS LDP label distribution |
+| 3 | RSVP-TE explicit-path tunnels |
+| 4 | CSPF and autoroute announce |
+| 5 | Fast Reroute (FRR) protection |
+| 6 | L3VPN over MPLS-TE |
+
+### [VXLAN EVPN Fabric on Cisco Nexus 9000v — EVE-NG](https://github.com/bosamart/Cisco-NXOS-VXLAN-EVPN-Fabric-Lab)
+
+Spine-leaf DC fabric: OSPF underlay, MP-BGP EVPN overlay with spine route reflectors, VTEP/NVE, L2VNI extension — including the eBGP-overlay lessons learned the hard way.
+
+**Sequel in progress:** L3 fabric — L3VNI, symmetric IRB, distributed anycast gateway, tenant VRF, EVPN Type-5 border leaf. Public after full verification.
+
+---
+
+## 🤖 AI & Automation
+
+Using AI aggressively as a working tool, not a buzzword: documentation, troubleshooting analysis, lab design, and study — moving toward LLM agents that read network state and assist operations.
+
+- AI-assisted network operations (Claude workflows, daily ops)
+- Python for network automation (Netmiko/NAPALM, in progress)
+- Linux foundations for automation and monitoring
+- Git/GitHub for everything you see here
 
 ---
 
