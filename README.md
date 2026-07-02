@@ -1,6 +1,6 @@
 # Hi, I'm Bo Sam Ath 👋
 
-IP Network Engineer based in Cambodia — 8 years building and operating service-provider core networks at **Metfone**, now IP Network Operations at **Cellcard**.
+IP Network Engineer based in Cambodia — 8 years building and operating service-provider core networks at **Metfone**, now IP Network Operations at **Telcotech**.
 
 Direction: **AI-powered network engineer** — carrier-scale networking experience, multiplied by automation and AI. Not replacing the network engineer with AI; making one engineer count for more.
 
